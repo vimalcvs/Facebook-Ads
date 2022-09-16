@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Facebook Ads</string>
+    <string name="banner_size_50">Banner Size 50</string>
+    <string name="banner_size_90">Banner Size 90</string>
+    <string name="loading_fullscreen_ad">Loading Fullscreen Ad</string>
+    <string name="banner_ads">Banner Ads</string>
+    <string name="rectangle_ad">Rectangle Ad</string>
+    <string name="interstitial_ad">Interstitial Ad</string>
+    <string name="reward_ad">Reward Ad</string>
+    <string name="native_ad">Native Ad</string>
+</resources>
